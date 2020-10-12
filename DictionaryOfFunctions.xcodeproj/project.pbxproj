@@ -11,6 +11,7 @@
 		2FB6CCFE2533EBDE00663885 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB6CCFD2533EBDE00663885 /* ContentView.swift */; };
 		2FB6CD002533EBE000663885 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FB6CCFF2533EBE000663885 /* Assets.xcassets */; };
 		2FB6CD032533EBE000663885 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FB6CD022533EBE000663885 /* Preview Assets.xcassets */; };
+		2FB6CD0C2533EC1700663885 /* functionDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB6CD0B2533EC1700663885 /* functionDictionary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2FB6CCFF2533EBE000663885 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FB6CD022533EBE000663885 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2FB6CD042533EBE000663885 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FB6CD0B2533EC1700663885 /* functionDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = functionDictionary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				2FB6CCFB2533EBDE00663885 /* DictionaryOfFunctionsApp.swift */,
 				2FB6CCFD2533EBDE00663885 /* ContentView.swift */,
+				2FB6CD0B2533EC1700663885 /* functionDictionary.swift */,
 				2FB6CCFF2533EBE000663885 /* Assets.xcassets */,
 				2FB6CD042533EBE000663885 /* Info.plist */,
 				2FB6CD012533EBE000663885 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				2FB6CCFE2533EBDE00663885 /* ContentView.swift in Sources */,
 				2FB6CCFC2533EBDE00663885 /* DictionaryOfFunctionsApp.swift in Sources */,
+				2FB6CD0C2533EC1700663885 /* functionDictionary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
