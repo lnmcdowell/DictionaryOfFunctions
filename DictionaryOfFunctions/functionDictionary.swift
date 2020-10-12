@@ -26,6 +26,12 @@ func setupDictionary(){
     
     stringFunctionDictionary["second key"] = {stringArg in print("I have just added a dictionary entry spitting out \(stringArg)")}
     
+    stringFunctionDictionary.removeValue(forKey: "first one")
+    
+    for (key,value) in stringFunctionDictionary {
+        print("found a key called \(key)")
+    }
+    
 }
 
 func otherExa(){
